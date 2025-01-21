@@ -48,7 +48,7 @@ border-spacing: 0;
 /* Code written by Jessica Barnett */
 /* CUSTOM STYLES */
 :root{
---red: #bf3636;
+--red: #b42e2e;
 --orange: #d04936;
 --yellow: #ffcc14;
 --green: #5a5a23;
@@ -118,7 +118,7 @@ section{
 width: calc(100% - 2rem);
 min-height: 300px;
 margin: 0 auto;
-background-color: white;
+background-color: rgb(218, 211, 211);
 box-shadow: 5px 5px 5px #aaa;
 padding: 1rem;
 }
